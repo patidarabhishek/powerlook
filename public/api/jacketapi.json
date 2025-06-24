@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Black Knit Regular Fit Full Sleeves Bomber Jacket",
+      "price": 799,
+      "color": "Black",
+      "code": "1700001",
+      "image": "https://media.powerlook.in/catalog/product/d/p/dp_1189730_1.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/d/p/dp_1189730_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/2/1/21189730.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/3/1/31189730.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/4/1/41189730.jpg?aio=w-640"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "This black knit bomber jacket is where classic style meets modern comfort. Made from 100% acrylic, it offers a sleek, cozy fit. With full sleeves and a regular fit, it’s perfect for layering or wearing solo. This jacket is a must-have for those who want warmth without compromising on style."
+    },
+    {
+      "id": 2,
+      "name": "Blue Ombre Denim Jacket",
+      "price": 1599,
+      "color": "Blue",
+      "code": "1700002",
+      "image": "https://media.powerlook.in/catalog/product/3/1/31172630.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/3/1/31172630.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/d/p/dp21172630.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/d/p/dp11172630.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/4/1/41172630.jpg?aio=w-640"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "More pockets, more style. This blue multi-pocket denim jacket isn’t just practical, it’s got that rugged edge. With a fit that’s just right and enough room to store the essentials, it’s perfect for when you need to carry your things without looking like you’re trying."
+    },
+    {
+      "id": 3,
+      "name": "Beige Checks Regular Fit Full Sleeves Shirt",
+      "price": 899,
+      "color": "Beige",
+      "code": "1700003",
+      "image": "https://media.powerlook.in/catalog/product/d/p/dp1147921_1.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/d/p/dp1147921_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/2/1/21147921.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/5/1/51147921.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/4/1/41147921.jpg?aio=w-640"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "Add a touch of understated charm with this beige checks shirt. Designed with a regular fit and full sleeves, it’s crafted from a unique blend of 50% cotton, 45% polyester, and 5% viscose. The subtle check pattern adds character, while the fabric blend offers comfort and durability. This shirt brings a classic yet contemporary vibe, making it a versatile choice for any occasion."
+    },
+    {
+      "id": 4,
+      "name": "Oversized Beige Drop Shoulder Tee",
+      "price": 849,
+      "color": "Brown",
+      "code": "1700004",
+      "image": "https://media.powerlook.in/catalog/product/d/p/dp11134621.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/d/p/dp11134621.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/3/1/31134621.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/2/1/21134621.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/4/1/41134621.jpg?aio=w-640"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "When staying warm meets effortless edge. This off-white sweater jacket wraps you in soft, breathable warmth with a full-sleeve design that’s perfect for chilly mornings or late-night plans. The clean silhouette and regular fit make it a versatile layer, blending comfort and understated style with ease."
+    },
+    {
+      "id": 5,
+      "name": "Pine Green Regular Fit Varsity Jacket",
+      "price": 999,
+      "color": "Green",
+      "code": "1700005",
+      "image": "https://media.powerlook.in/catalog/product/d/p/dp11234730_1.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/d/p/dp11234730_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/3/1/31234730_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/2/1/21234730_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/5/1/51234730_1.jpg?aio=w-640"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "Outclass your outerwear game with this Pine Green Regular Fit Varsity Jacket. Made from a durable blend of 65% cotton and 35% polyester, it’s built to last while keeping you comfortably stylish. The full sleeves and collar bring the varsity vibe to life, making sure you stand out in the crowd without trying too hard"
+    },
+    {
+      "id": 6,
+      "name": "Off White Regular Fit Full Sleeves Sweater Jacket",
+      "price": 749,
+      "color": "White",
+      "code": "1700006",
+      "image": "https://media.powerlook.in/catalog/product/3/1/31205930_1.jpg?aio=w-640",
+      "images": [
+        "https://media.powerlook.in/catalog/product/3/1/31205930_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/d/p/dp11205930_1.jpg?aio=w-640",
+        "https://media.powerlook.in/catalog/product/d/p/dp21205930_1.jpg?aio=w-96",
+        "https://media.powerlook.in/catalog/product/2/1/21205930_1.jpg?aio=w-96"
+      ],
+      "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+      "description": "When staying warm meets effortless edge. This off-white sweater jacket wraps you in soft, breathable warmth with a full-sleeve design that’s perfect for chilly mornings or late-night plans. The clean silhouette and regular fit make it a versatile layer, blending comfort and understated style with ease."
+    }
+  ]
+  

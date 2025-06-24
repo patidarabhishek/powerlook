@@ -1,0 +1,161 @@
+.custom-navbar {
+    padding: 1.5rem 2rem !important;
+}
+/* Active link style */
+.navbar-link.active {
+  color: red !important; /* Red color for active link */
+  /* font-weight: bold; Optional: make the active link bold */
+}
+
+/* Hover effect for underline */
+.navbar-link {
+  position: relative; /* Needed for the absolute positioning of the underline */
+  text-decoration: none; /* Remove the default underline */
+  font-size: 12px;
+  color: #000;
+  padding: 1rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar-link:hover{
+  color: red;
+
+}
+/* Create the hover underline effect */
+.navbar-link::after {
+  content: ''; /* Empty content to create the underline */
+  position: absolute;
+  bottom: -4px; /* Position it slightly below the text */
+  left: 0;
+  width: 100%;
+  height: 2px; /* Thickness of the underline */
+  background-color: #ff0000; /* Color of the underline */
+  transform: scaleX(0); /* Start with the underline not visible */
+  transform-origin: bottom center;
+  transition: transform 0.4s ease-out; /* Smooth transition for the underline */
+}
+
+/* On hover, show the underline */
+.navbar-link:hover::after {
+  transform: scaleX(1); /* Reveal the underline */
+  transform-origin: bottom center; /* Set origin to make the animation smooth */
+}
+.hero-image {
+  object-fit: cover;
+  height: 600px;
+}
+
+/* Tablet View */
+@media (max-width: 992px) {
+  .hero-image {
+    height: 400px;
+  }
+}
+
+/* Mobile View */
+@media (max-width: 576px) {
+  .hero-image {
+    height: 250px;
+  }
+}
+.footer-link li{
+  position: relative; /* Needed for the absolute positioning of the underline */
+  text-decoration: none; /* Remove the default underline */
+  font-size: 14px;
+  color: #808080 ;
+}
+.footer-link li:hover{
+  color: red;
+}
+.footer-link-li{
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: #808080 !important;
+
+}
+.footer-link-li:hover{
+  color: red !important;
+}
+.form-check-input:checked {
+  background-color: rgba(255, 0, 0, 0.938) !important;
+  border-color: rgba(255, 0, 0, 0.938) !important;
+}
+.product-card {
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  overflow: hidden; /* <== Keeps image zoom inside */
+  border-radius: 8px; /* Optional for smooth corners */
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.product-img {
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover .product-img {
+  transform: scale(1.09) !important;
+}
+.product-detailed-size-btn {
+  border-radius: 0;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+}
+
+.product-detailed-size-btn:hover {
+  color: red;
+  background-color: rgb(243, 243, 243);
+  border: 1px solid #ccc;
+
+}
+
+.product-detailed-size-btn.selected {
+  background-color: #dc3545;
+  color: white;
+  border-color: #dc3545;
+}
+.btn-red-active {
+  background-color: red !important;
+  color: white !important;
+  border: none !important;
+}
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 10px;
+}
+/* Hide scrollbars visually but still allow scrolling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.product-detailed-wishlist-btn{
+  border-radius: 0;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.product-detailed-wishlist-btn:hover{
+  color: rgb(0, 0, 0);
+  background-color: rgb(243, 243, 243);
+  border: 1px solid #ccc;
+}
+.product-detailed-cart-btn{
+  /* border: 1px solid #ccc; */
+  border-radius: 0;
+  font-size: 13px;  
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.social-icon:hover{
+  color: red !important;
+}

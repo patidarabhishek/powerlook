@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Brown Natural Print Shirt",
+    "price": 799,
+    "color": "Brown",
+    "code": "1274220",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_102.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_102.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_207.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_216.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_201.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Add a touch of personality to your wardrobe with our unique and eye-catching Brown Natural Print Shirt. Grounded tones meet raw, organic patterns, making it instinctively perfect for a chill day while still letting you feel like the life of the party. Lightweight and fluid in form, it’s made for the days when your style needs to feel effortless but intentional."
+  },
+  {
+    "id": 2,
+    "name": "Light Olive Structured Printed Shirt",
+    "price": 899,
+    "color":"Light Green",
+    "code": "1274221",
+    "image": "https://media.powerlook.in/catalog/product/2/_/2_1514_284.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_284.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_169.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_270.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_267.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "This White Striped Crew Neck T-Shirt is a timeless classic redefined for modern comfort. Soft, breathable fabric with subtle stripes adds effortless style to your everyday look. Perfect for layering or wearing solo."
+  },
+  {
+    "id": 3,
+    "name": "Black Structured Oversized fit Half Sleeves Shirt",
+    "price": 899,
+    "color": "Black",
+    "code": "1274222",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_02-1049820.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp2_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_02-1049820.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Stand out with the Rust Orange Slim Fit T-Shirt, designed for the fashion-forward man. It hugs your form just right and keeps you cool with a smooth, stretchable fabric that moves with you."
+  },
+  {
+    "id": 4,
+    "name": "Mustard And Off-White Checks Regular Fit Full Sleeves Shirt",
+    "price": 1199,
+    "color": "Yellow",
+    "code": "1274223",
+    "image": "https://media.powerlook.in/catalog/product/4/1/41178121.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/4/1/41178121.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp11178121.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21178121.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/1/31178121.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Relaxed and cool, this Oversized Beige Drop Shoulder Tee delivers on both comfort and style. Designed for all-day wear, its drop shoulder cut gives you a modern, laid-back vibe."
+  },
+  {
+    "id": 5,
+    "name": "Rust Floral Crinkled Print Shirt",
+    "price": 999,
+    "color": "Red",
+    "code": "1274224",
+    "image": "https://media.powerlook.in/catalog/product/5/_/5_576_280.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/5/_/5_576_280.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_1579_323.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_302.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_201.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Elevate your casual look with this Navy Blue Typography T-Shirt. Featuring bold print and premium cotton, it pairs well with jeans or joggers for a weekend-ready outfit."
+  },
+  {
+    "id": 6,
+    "name": "Multi Colour Double Pocket Regular Fit Full Sleeves Shirt",
+    "price": 1499,
+    "color": "Sky Blue",
+    "code": "1274225",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp_1_2_53.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp_1_2_53.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp_2_1_29.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_149.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_1579_154.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "The Green Washed Effect T-Shirt adds rugged charm to your look. Its unique wash and vintage feel make it perfect for those who like their style with a story."
+  }
+]

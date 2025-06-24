@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Cream Cotton Cargo Trousers",
+    "price": 799,
+    "color": "White",
+    "code": "1800001",
+    "image": "https://media.powerlook.in/catalog/product/1/1/11289960.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/1/1/11289960.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/1/61289960.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/1/21289960.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/1/41289960.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "For all the things you want to carry—except extra drama. These cargos keep it clean in cotton black, with just enough pocket power to look cool without going tactical. A regular fit that stays easy, from lazy Sundays to late-night errands."
+  },
+  {
+    "id": 2,
+    "name": "Black Cotton Cargo Trousers",
+    "price": 1499,
+    "color": "Black",
+    "code": "1800002",
+    "image": "https://media.powerlook.in/catalog/product/1/2/1288260_1_.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/1/2/1288260_1_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1288260_6_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1288260_3_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1288260_4_.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "For all the things you want to carry—except extra drama. These cargos keep it clean in cotton black, with just enough pocket power to look cool without going tactical. A regular fit that stays easy, from lazy Sundays to late-night errands."
+  },
+  {
+    "id": 3,
+    "name": "Cream Knit Gurkha Pant",
+    "price": 1299,
+    "color": "White",
+    "code": "1800003",
+    "image": "https://media.powerlook.in/catalog/product/1/_/1_1579_263.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/1/_/1_1579_263.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_261.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_249.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_246.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "Elevate your off-duty style with our Grey Denim Baggy Fit Jeans. Featuring a washed grey tone and a roomy silhouette, these jeans bring a perfect mix of street-ready attitude and all-day comfort. A go-to pick for those who like their fashion bold, relaxed, and effortlessly cool."
+  },
+  {
+    "id": 4,
+    "name": "Grey Denim Baggy Fit Jeans",
+    "price": 1299,
+    "color": "Grey",
+    "code": "1800004",
+    "image": "https://media.powerlook.in/catalog/product/5/_/5_576_217.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/5/_/5_576_217.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_151.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_242.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_239.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "Elevate your off-duty style with our Grey Denim Baggy Fit Jeans. Featuring a washed grey tone and a roomy silhouette, these jeans bring a perfect mix of street-ready attitude and all-day comfort. A go-to pick for those who like their fashion bold, relaxed, and effortlessly cool."
+  },
+  {
+    "id": 5,
+    "name": "Black Solid Washed Baggy Fit Denim Jeans",
+    "price": 1199,
+    "color": "Black",
+    "code": "1800005",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp_1456.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp_1456.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1275.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1209.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_1339.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "These black jeans with a stylish finish make you look cool, and feel comfortable. This pair of denim is best for casual wear and gives you a classic look that makes the solid look even better. Featuring a loose fit with Non-Stretchable Denim Fabric, they are a must-have in every man's closet."
+  },
+  {
+    "id": 6,
+    "name": "Sky Blue Regular Fit Jeans",
+    "price": 1199,
+    "color": "Sky Blue",
+    "code": "1800006",
+    "image": "https://media.powerlook.in/catalog/product/2/1/21193950.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/2/1/21193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp11193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/1/41193950.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "These aren’t just any jeans. The Sky Blue Regular Fit Jeans are your ticket to comfort and style that actually works. Made from 100% cotton, they feel as good as they look. They’re the kind of jeans you wear when you want to switch things up without overthinking your outfit. Crisp, clean, and easy to pair—these jeans are about to be your new best friend."
+  }
+]

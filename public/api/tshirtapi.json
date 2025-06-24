@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Green And Black Stripe T-Shirt",
+    "price": 999,
+    "color": "Green",
+    "code": "1300001",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_109.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_109.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp2_58.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_238.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_253.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Green and black stripes that walk the line between sporty and street. Not loud, not quiet—just the right dose of visual energy to liven up your look. Throw it on and forget the rest. When the fit’s right, the day follows."
+  },
+  {
+    "id": 2,
+    "name": "Black Contrast Collar Henley T-Shirt",
+    "price": 899,
+    "color": "Black",
+    "code": "1300002",
+    "image": "https://media.powerlook.in/catalog/product/2/_/2_1514_280.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_280.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_266.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_263.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_166.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Keep it classic but with a twist in our Black Contrast Collar Henley T-Shirt. Made from breathable cotton, it features a sleek buttoned placket and a sharp contrast collar for that elevated edge. Easy to wear, easy to pair; built for everyday moves with standout appeal. Perfect for smart casual and pinteresty looks, it's a must have for the fashion-forward men."
+  },
+  {
+    "id": 3,
+    "name": "Dark Brown Rib T-Shirt",
+    "price": 899,
+    "color": "Brown",
+    "code": "1300003",
+    "image": "https://media.powerlook.in/catalog/product/1/2/1298310_1_.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/1/2/1298310_1_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1298310_4_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1298310_5_.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/2/1298310_2_.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "A t-shirt that plays it cool but doesn’t disappear in the crowd. The ribbed texture adds quiet structure, while the dark brown shade brings that grown-up energy without feeling too serious. Throw it on with cargos or denim—it’s made for days when you want to look sorted, without putting in too much thought."
+  },
+  {
+    "id": 4,
+    "name": "Olive Structured T-Shirt",
+    "price": 999,
+    "color": "Olive",
+    "code": "1300004",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_118.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_118.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_334.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp_2_1_45.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/5/_/5_576_289.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL","XXL"],
+    "description": "The Olive Structured T-Shirt brings a quiet confidence to your wardrobe. Expertly crafted from organic cotton, this polo combines sustainability with luxury. The structured fabric offers a slightly thicker and smoother texture, ensuring a refined look and feel. Pair it with anything, wear it anywhere; this one thrives in simplicity."
+  },  
+  {
+    "id": 5,
+    "name": "Beige Geometric Jacquard T-Shirt",
+    "price": 1119,
+    "color": "White",
+    "code": "1300005",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_98.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_98.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp2_51.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/5/_/5_576_177.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_121.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Not your usual tee. The jacquard texture adds quiet complexity to a clean beige base. No prints, no slogans, just a cool detail that only gets noticed up close — which is exactly how you like it. Smart enough for the ‘nice shirt’ compliments, chill enough to wear on loop."
+  },
+  {
+    "id": 6,
+    "name": "Off-White And Blue Regular Fit Full Sleeves Zip Sweatshirt",
+    "price": 1199,
+    "color": "White",
+    "code": "1300006",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp11195611-2.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp11195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/1/11195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/1/21195611-2.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Gear up for weekend adventures with the Off-White and Blue Regular Fit Full Sleeves Zip Sweatshirt. The structured flat knit fabric and knitted striped design make it perfect for both lounging and laid-back outings. This full zip no hood sweatshirt is the epitome of easy, stylish comfort."
+  }
+]

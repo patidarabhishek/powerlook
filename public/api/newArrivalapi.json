@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Brown Natural Print Shirt",
+    "price": 799,
+    "color": "Brown",
+    "code": "1000001",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_102.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_102.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_207.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_216.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_201.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Add a touch of personality to your wardrobe with our unique and eye-catching Brown Natural Print Shirt. Grounded tones meet raw, organic patterns, making it instinctively perfect for a chill day while still letting you feel like the life of the party. Lightweight and fluid in form, it’s made for the days when your style needs to feel effortless but intentional."
+  },
+  {
+    "id": 2,
+    "name": "Black Contrast Collar Henley T-Shirt",
+    "price": 899,
+    "color": "Black",
+    "code": "1000002",
+    "image": "https://media.powerlook.in/catalog/product/2/_/2_1514_280.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/2/_/2_1514_280.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1442_266.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/_/4_1068_263.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/6/_/6_135_166.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Keep it classic but with a twist in our Black Contrast Collar Henley T-Shirt. Made from breathable cotton, it features a sleek buttoned placket and a sharp contrast collar for that elevated edge. Easy to wear, easy to pair; built for everyday moves with standout appeal. Perfect for smart casual and pinteresty looks, it's a must have for the fashion-forward men."
+  },
+  {
+    "id": 3,
+    "name": "Black Structured Oversized fit Half Sleeves Shirt",
+    "price": 899,
+    "color": "Black",
+    "code": "1000003",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp1_02-1049820.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp1_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp2_02-1049820.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_02-1049820.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Stand out with the Rust Orange Slim Fit T-Shirt, designed for the fashion-forward man. It hugs your form just right and keeps you cool with a smooth, stretchable fabric that moves with you."
+  },
+  {
+    "id": 4,
+    "name": "Oversized Beige Drop Shoulder Tee",
+    "price": 849,
+    "color": "Brown",
+    "code": "1000004",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp11134621.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp11134621.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/1/31134621.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/1/21134621.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/1/41134621.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "When staying warm meets effortless edge. This off-white sweater jacket wraps you in soft, breathable warmth with a full-sleeve design that’s perfect for chilly mornings or late-night plans. The clean silhouette and regular fit make it a versatile layer, blending comfort and understated style with ease."
+  },
+  {
+    "id": 5,
+    "name": "Black Solid Washed Baggy Fit Denim Jeans",
+    "price": 1199,
+    "color": "Black",
+    "code": "1000005",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp_1456.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp_1456.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/_/2_1275.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/3/_/3_1209.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/_/1_1339.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "These black jeans with a stylish finish make you look cool, and feel comfortable. This pair of denim is best for casual wear and gives you a classic look that makes the solid look even better. Featuring a loose fit with Non-Stretchable Denim Fabric, they are a must-have in every man's closet."
+  },
+  {
+    "id": 6,
+    "name": "Off White Regular Fit Full Sleeves Sweater Jacket",
+    "price": 749,
+    "color": "White",
+    "code": "1000006",
+    "image": "https://media.powerlook.in/catalog/product/3/1/31205930_1.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/3/1/31205930_1.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp11205930_1.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21205930_1.jpg?aio=w-96",
+      "https://media.powerlook.in/catalog/product/2/1/21205930_1.jpg?aio=w-96"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "When staying warm meets effortless edge. This off-white sweater jacket wraps you in soft, breathable warmth with a full-sleeve design that’s perfect for chilly mornings or late-night plans. The clean silhouette and regular fit make it a versatile layer, blending comfort and understated style with ease."
+  },
+  {
+    "id": 7,
+    "name": "Sky Blue Regular Fit Jeans",
+    "price": 1199,
+    "color": "Sky Blue",
+    "code": "1000007",
+    "image": "https://media.powerlook.in/catalog/product/2/1/21193950.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/2/1/21193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp11193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21193950.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/4/1/41193950.jpg?aio=w-640"
+    ],
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "description": "These aren’t just any jeans. The Sky Blue Regular Fit Jeans are your ticket to comfort and style that actually works. Made from 100% cotton, they feel as good as they look. They’re the kind of jeans you wear when you want to switch things up without overthinking your outfit. Crisp, clean, and easy to pair—these jeans are about to be your new best friend."
+  },
+  {
+    "id": 8,
+    "name": "Off-White And Blue Regular Fit Full Sleeves Zip Sweatshirt",
+    "price": 1199,
+    "color": "White",
+    "code": "1000008",
+    "image": "https://media.powerlook.in/catalog/product/d/p/dp11195611-2.jpg?aio=w-640",
+    "images": [
+      "https://media.powerlook.in/catalog/product/d/p/dp11195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/d/p/dp21195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/1/1/11195611-2.jpg?aio=w-640",
+      "https://media.powerlook.in/catalog/product/2/1/21195611-2.jpg?aio=w-640"
+    ],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "description": "Gear up for weekend adventures with the Off-White and Blue Regular Fit Full Sleeves Zip Sweatshirt. The structured flat knit fabric and knitted striped design make it perfect for both lounging and laid-back outings. This full zip no hood sweatshirt is the epitome of easy, stylish comfort."
+  }
+  ]
+  
